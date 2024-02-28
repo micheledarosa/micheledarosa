@@ -72,9 +72,9 @@
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
 
 <div align="center">
-<br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MrBElga}/count.svg" />
- <div><img align="center-right" alt="pic" height="150" style="border-radius:100px;" src="./gifs/visitors-gif.gif"></p>
+  <h3 align="center"><b>Visitors Count</b></h3>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{MrBElga}/count.svg" />
+  <div><img align="center-right" alt="pic" height="100" style="border-radius:90px;" src="./gifs/visitors-gif.gif"></p>
 </div>
 <div align="center"> 
   <img src="https://64.media.tumblr.com/be79f4105e0ac099e5650123b4630dce/334ea10669a6e02f-32/s500x750/247f1e4dcdf7001a784566ad32f8d9089ebd788b.gifv">
