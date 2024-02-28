@@ -28,12 +28,12 @@
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
 
 <div align="center">
-  <img src="./gifs/skills-gif.gif" width="25px" style="vertical-align: middle;">
-  <h3 style="display: inline-block; vertical-align: middle; font-size: 18px; -webkit-text-stroke: 1px black; color:white;">Skills</h3>
+  <img src="./gifs/skills-gif.gif" width="25" />&nbsp; <span style="font-size: 16px;"><b>Skills</b></span> 
 </div>
+<br>
 
-<div align="center" style="text-align: center;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,py,cs,dotnet,java,react,tailwind,mysql,sqlite,git,github,vscode,visualstudio,pycharm,netlify,notion&perline=14"/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,py,cs,dotnet,java,react,tailwind,mysql,sqlite,git,github,vscode,visualstudio,pycharm,netlify,notion&perline=14" />
 </div>
 
 <br><br>
@@ -63,9 +63,9 @@
 </div>
 <br>
 <div align="center"> 
-  <a href="https://github.com/micheledarosa?tab=repositories">
-    <button style="border-width: 2px; border-radius: 30px; width:130px; height: 30px; color:#000; background:#EB97C8; cursor:pointer; font-family: monospace;">more projects</button>
-  </a>
+    <a href="https://github.com/micheledarosa?tab=repositories" target="_blank">
+      <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-EB97C8?style=for-the-badge&logoColor=black&logo=repo" />
+    </a>
 </div>
 
 <br>
@@ -79,5 +79,3 @@
 <div align="center"> 
   <img src="https://64.media.tumblr.com/be79f4105e0ac099e5650123b4630dce/334ea10669a6e02f-32/s500x750/247f1e4dcdf7001a784566ad32f8d9089ebd788b.gifv">
 </div>
-
-[![Spotify](https://github-spotify-live.vercel.app/api/spotify)](https://open.spotify.com/user/31kdu773l427mwyftgti4jlwytu4)
