@@ -33,7 +33,7 @@
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,py,cs,dotnet,java,react,tailwind,mysql,sqlite,git,github,vscode,visualstudio,pycharm,netlify,notion&perline=14" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,py,cs,dotnet,java,react,tailwind,mysql,sqlite,postman,git,github,vscode,visualstudio,pycharm,netlify,notion&perline=14" />
 </div>
 
 <br><br>
