@@ -59,7 +59,7 @@
   <a href="https://github.com/micheledarosa/nlw-expert-notes"><img src="https://i.imgur.com/ED6Vz1l.png" width="250px" height="135"></a>
   <a href="https://github.com/micheledarosa/gta-clone"><img src="https://i.imgur.com/ShGXCru.png" width="250px" height="135"></a>
   <a href="https://github.com/micheledarosa/Auction-API"><img src="https://camo.githubusercontent.com/44f3a9143ba4f058ac3d2e9f53a812f8c44abe1e231a519a9762d2c92c73468e/68747470733a2f2f692e696d6775722e636f6d2f4e3054616542502e706e67" width="250px" height="135"></a>
-  <a href="https://github.com/micheledarosa/hashtaurante"><img src="https://camo.githubusercontent.com/7624311cd83b79870f0d0b32377dbf7386aef208a18c83569a3563116b13178f/68747470733a2f2f692e696d6775722e636f6d2f43356355414d332e706e67" width="250px" height="135"></a>
+  <a href="https://github.com/micheledarosa/jujutsu-villains"><img src="https://camo.githubusercontent.com/7624311cd83b79870f0d0b32377dbf7386aef208a18c83569a3563116b13178f/68747470733a2f2f692e696d6775722e636f6d2f43356355414d332e706e67" width="250px" height="135"></a>
 </div>
 <br>
 <div align="center"> 
