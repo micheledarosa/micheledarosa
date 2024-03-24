@@ -54,7 +54,7 @@
   <a href="https://github.com/micheledarosa/login-screen-lol"><img src="https://camo.githubusercontent.com/5c7d51eb1d861090e75ca9bd79b45173a19b15502ecdeabed246f6a047e7e37a/68747470733a2f2f692e696d6775722e636f6d2f574365447354732e706e67" width="250px" height="135"></a>
   <a href="https://github.com/micheledarosa/drive-on?tab=readme-ov-file"><img src="https://i.imgur.com/bVsUmIM.png" width="250px" height="135"></a>
   <a href="https://github.com/micheledarosa/portfolio-misha?tab=readme-ov-file"><img src="https://i.imgur.com/97coHma.png" width="250px" height="135"></a>
-  <a href="https://github.com/micheledarosa/projeto-starbucks"><img src="https://camo.githubusercontent.com/7c6cf52316ad7ffcbf6c7a7652ecc40890ce91a71932852c27bb19a8b8fdeec1/68747470733a2f2f692e696d6775722e636f6d2f4144376546396b2e706e67" width="250px" height="135"></a>
+  <a href="https://github.com/micheledarosa/bunny-todo"><img src="https://camo.githubusercontent.com/a31b1bf26c25f98a84892012c386317ef26c3b812af9fbfb63296a10b5312198/68747470733a2f2f692e696d6775722e636f6d2f3371656831754d2e706e67" width="250px" height="135"></a>
   <a href="https://github.com/micheledarosa/spotify-clone?tab=readme-ov-file"><img src="https://i.imgur.com/4kYRRvU.png" width="250px" height="135"></a>
   <a href="https://github.com/micheledarosa/nlw-expert-notes"><img src="https://i.imgur.com/ED6Vz1l.png" width="250px" height="135"></a>
   <a href="https://github.com/micheledarosa/gta-clone"><img src="https://i.imgur.com/ShGXCru.png" width="250px" height="135"></a>
