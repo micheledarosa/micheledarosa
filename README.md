@@ -12,8 +12,9 @@
 <div>
   <h3 style="margin-left: 25px;">things I love:</h3>
   <ul style="list-style:none;">
-    <li>👩‍💻 coding</li>
     <li>🎮 games</li>
+    <li>🎬 video editing</li>
+    <li>👩‍💻 coding</li>
     <li>📺 animes and movies</li>
     <li>🧟‍♂️ horror</li>
     <li>☕ coffee</li>
